@@ -1,3 +1,5 @@
+package Taller2_semana1.src;
+
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Scanner;

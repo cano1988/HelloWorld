@@ -32,6 +32,6 @@ public class POO {
                 "\n" +
                 "Un identificador es el nombre del objeto.\n" +
                 "Las variables son las características del objeto\n" +
-                "Los métodos son el comportamiento de nuestro objeto.\n");
+                "Los métodos son el comportamiento de nuestros objetos.\n");
     }
 }

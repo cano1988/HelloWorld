@@ -1,3 +1,5 @@
+package Taller1_semana1.src;
+
 import java.util.Scanner;
 
 public class Calificaciones {

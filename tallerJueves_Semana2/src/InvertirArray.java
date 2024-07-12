@@ -1,3 +1,5 @@
+package tallerJueves_Semana2.src;
+
 import java.util.Arrays;
 
 public class InvertirArray {

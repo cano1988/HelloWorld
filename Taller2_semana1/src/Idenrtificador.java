@@ -1,3 +1,5 @@
+package Taller2_semana1.src;
+
 import java.util.Scanner;
 
 public class Idenrtificador {

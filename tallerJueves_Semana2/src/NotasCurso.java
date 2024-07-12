@@ -1,3 +1,5 @@
+package tallerJueves_Semana2.src;
+
 public class NotasCurso {
     public static void main(String[] args){
 
