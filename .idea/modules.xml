@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Taller_Semana3_POO/Curso/Curso.iml" filepath="$PROJECT_DIR$/Taller_Semana3_POO/Curso/Curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/Inventarios.iml" filepath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/Inventarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller_Semana3_POO/Registro/Registro.iml" filepath="$PROJECT_DIR$/Taller_Semana3_POO/Registro/Registro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller_Semana3_POO/Taller_Semana3_POO.iml" filepath="$PROJECT_DIR$/Taller_Semana3_POO/Taller_Semana3_POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/tallerViernes_Semana2/tallerViernes_Semana2.iml" filepath="$PROJECT_DIR$/tallerViernes_Semana2/tallerViernes_Semana2.iml" />
       <module fileurl="file://$PROJECT_DIR$/org/example/.idea/talleres_java.iml" filepath="$PROJECT_DIR$/org/example/.idea/talleres_java.iml" />
     </modules>
