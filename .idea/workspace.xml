@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="165af0a2-455a-49b1-a0aa-85c0ae08fe94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/ProductoEspecifico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/Inventarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/Inventarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_Semana3_POO/Inventarios/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller_Semana3_POO/Registro/Registro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_Semana3_POO/RegistroEmpleados/RegistroEmpleados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller_Semana3_POO/Registro/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_Semana3_POO/RegistroEmpleados/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/out/production/Inventarios/Inventarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/out/production/Inventarios/Inventarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/out/production/Inventarios/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/out/production/Inventarios/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MenuInteractivo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/olru2/OneDrive/Desktop/RIWI GENERAL/GIT&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/olru2/OneDrive/Desktop/RIWI GENERAL/GIT/Taller_Semana3_POO/Curso/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculadora.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MenuInteractivo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/olru2/OneDrive/Desktop/RIWI GENERAL/GIT",
+    "onboarding.tips.debug.path": "C:/Users/olru2/OneDrive/Desktop/RIWI GENERAL/GIT/hola/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\olru2\OneDrive\Desktop\RIWI GENERAL\GIT\org\example" />
@@ -102,9 +106,9 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Taller_Semana3_POO/Registro/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/hola/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

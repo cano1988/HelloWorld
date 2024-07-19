@@ -7,15 +7,9 @@ public class Inventarios {
     ArrayList<ProductoEspecifico> product = new ArrayList<>();
 
 
-    //Vamoa a ingresar valores por interfaz grafica, por ventana, por eso vamos a crear un metodo
-    // y no estar solicitando siempre
-
-    public String Input(String text){
-        return JOptionPane.showInputDialog(text);
-    }
-
     //Metodo para ingresar valores al array
     public void addProduct(){
+        //Joption lo utilizamos para realizar muestra de panel en pantalla.
         int id = Integer.parseInt(JOptionPane.showInputDialog("Id del producto: "));
         String nombre = JOptionPane.showInputDialog("Nombre del producto: ");
         double precio = Double.parseDouble(JOptionPane.showInputDialog("Precio del producto: "));
@@ -41,7 +35,8 @@ public class Inventarios {
     public void getProducto(){
         String cadena = ""; // Creamos esta cadena para almacenar por cada recorrido esta variable
         for (int i = 0; i < product.size(); i++) {
-                cadena += "Producto" +(i+1)+"\n";
+                cadena += "Producto " +(i+1)+"\n";
+                cadena += "******************\n";
                 cadena += "Id: " + product.get(i).getId()+"\n";
                 cadena += "Nombre : " + product.get(i).getNombre()+"\n";
                 cadena += "Precio: " + product.get(i).getPrecio()+"\n";
