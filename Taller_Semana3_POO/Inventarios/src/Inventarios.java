@@ -56,7 +56,7 @@ public class Inventarios {
     //Metodo para buscar si se encuntra un producto por nombre o marca
     public void BuscarProducto(){
 
-        String busqueda = JOptionPane.showInputDialog("Ingrese el producto por nombre o marca para verificar existencia: ");;
+        String busqueda = JOptionPane.showInputDialog("Ingrese el producto por nombre o marca para verificar existencia: ");
 
         for (int i = 0; i < product.size(); i++) {
             if(busqueda.equals(product.get(i).getNombre()) || busqueda.equals(product.get(i).getMarca())){
